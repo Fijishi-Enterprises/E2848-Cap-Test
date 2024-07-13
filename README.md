@@ -10,8 +10,8 @@
 
 </table>
 
-# What is pvcaptest?
-pvcaptest is an open source python package created to facilitate capacity testing following the ASTM E2848 standard.  The captest module contains a single class, CapData, which provides methods for loading, visualizing, filtering, and regressing capacity testing data.  The module also includes functions that take CapData objects as arguments and provide summary data and capacity test results.
+# What is E2848-Cap-Test?
+E2848-Cap-Test is an extended version of pvcaptest python package created to facilitate capacity testing following the ASTM E2848 standard.  The captest module contains a single class, CapData, which provides methods for loading, visualizing, filtering, and regressing capacity testing data.  The module also includes functions that take CapData objects as arguments and provide summary data and capacity test results.
 
 Documentation and examples are available on [readthedocs](https://pvcaptest.readthedocs.io/en/latest/) including full examples in jupyter notebooks that can be run in the browser without installing anything.
 
